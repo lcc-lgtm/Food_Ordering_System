@@ -1,4 +1,4 @@
-# Food Ordering System (LCC FOS)
+# Food Ordering System
 
 A DOS-based Point-of-Sale (POS) simulation for a small bakery/café, written entirely in **8086/x86 Assembly** (TASM/MASM). Runs in DOSBox.
 
